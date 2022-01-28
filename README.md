@@ -1,3 +1,3 @@
-#Dowolna strona www
+# Dowolna strona www
 
 ![tux](lux.jpg)
